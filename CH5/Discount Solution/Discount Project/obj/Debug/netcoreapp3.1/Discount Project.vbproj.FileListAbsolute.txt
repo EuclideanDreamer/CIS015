@@ -1,0 +1,16 @@
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.vbproj.AssemblyReference.cache
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount_Project.frmMain.resources
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.vbproj.GenerateResource.cache
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.AssemblyInfoInputs.cache
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.AssemblyInfo.vb
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.vbproj.CoreCompileInputs.cache
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.exe
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.deps.json
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.runtimeconfig.json
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.runtimeconfig.dev.json
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.dll
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\bin\Debug\netcoreapp3.1\Discount Project.pdb
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.dll
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.pdb
+C:\Users\anyon\Desktop\CIS015\Discount Solution\Discount Project\obj\Debug\netcoreapp3.1\Discount Project.genruntimeconfig.cache
